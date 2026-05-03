@@ -56,6 +56,6 @@ pf2mi needs at least one argument passed to it, the name of the output file. You
 1. `pf2mi {output_file}.csv < {input_file}.pf`
 2. `pf2mi {output_file}.csv {number of characteristics of PF input} < {input_file}.pf`
 3. `pf2mi {output_file}.csv {number of characteristics of PF input} {number of records of PF input} < {input_file}.pf`
-The **default values** are `20` for the characteristics and `5000` for the records.
+The default values are `20` for the characteristics and `5000` for the records.
 
 Repeated PF entries with the same title are joined back into a single CSV field using `|`.
