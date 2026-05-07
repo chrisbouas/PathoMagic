@@ -7,6 +7,8 @@ PathoMagic is a CLI tool which converts annotated genomic information stored in 
 - `mi2pf` parses CSV files and outputs files in the PathoLogic Format
 - `pf2mi` parses PF files outputting CSV
 
+<img src="PathoMagic_overview.png" alt="PathoMagic Overview" width="800">
+
 ## Requirements
 
 The following tools are required:
